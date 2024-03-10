@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,500,700);
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600,700);
+.designe.slider .bg {
+  background-color: #008080;
+}
+.designe.slider .bg-photo {
+  background-color: rgba(0,128,128,0);
+}
+.designe.slider h1,
+.designe.slider p {
+  color: #808000;
+}
+.designe.slider .bg {
+  background-size: cover;
+}
+.designe.slider .display-table {
+  height: 500px;
+}
+.designe.graph .bg {
+  background-color: #008080;
+}
+.designe.graph .bg-photo {
+  background-color: rgba(0,128,128,0);
+}
+.designe.graph h1,
+.designe.graph p,
+.designe.graph .display-table .txt h1 {
+  color: #808000;
+}
+.designe.graph .bg {
+  background-size: cover;
+}
+.designe.graph .display-table {
+  height: 400px;
+}
