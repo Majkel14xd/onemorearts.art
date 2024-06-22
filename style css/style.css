@@ -1,11 +1,11 @@
 /*
 Theme Name: Modern Furniture Store
-Theme URI: https://www.themespride.com/themes/free-furniture-wordpress-theme/
+Theme URI: https://www.themespride.com/products/free-furniture-wordpress-theme/
 Author: ThemesPride
 Author URI: https://www.themespride.com/
 Description: Modern Furniture Store theme  is to showcase your furniture store, home decor store, kitchen furniture, modular kitchen, etc. online. With its clean and minimalist design, this theme will enhance the aesthetics of your website, allowing your customers to focus on what really matters - your furniture. Its fully responsive layout ensures that your website looks great on any device, from desktops to smartphones. But that's not all. Our Furniture Store WordPress Theme is also designed with your business goals in mind. With easy customization options, you can tailor the theme to suit your brand's unique style and stand out from your competitors. Plus, the theme is optimized for SEO, helping you rank higher in search engine results and drive more traffic to your website.But what truly sets our Furniture Store WordPress Theme apart are its numerous features designed to improve the customer experience. From a convenient product filtering system to a seamless checkout process, your customers will appreciate the user-friendly design that makes shopping on your website a breeze. Don't settle for a mediocre website. Choose our Furniture Store WordPress Theme and elevate your online presence today. With its elegant design, customizable options, and customer-centric features, your furniture store is sure to thrive.
-Version: 1.0.9
-Tested up to: 6.4
+Version: 1.2
+Tested up to: 6.5
 Requires PHP: 5.6
 Requires at least: 5.0
 License: GPLv2 or later
@@ -901,7 +901,7 @@ span.posted_in {
 Posts Numbers
 --------------------------------------------------------------*/
 .page-numbers {
-  background: linear-gradient(90deg, rgba(241,113,105,1) 33%, rgba(242,96,151,1) 60%);
+  background: aqua;
   color: #fff;
   padding: 7px;
   font-weight: bold;
@@ -909,7 +909,7 @@ Posts Numbers
 .prev.page-numbers,
 .next.page-numbers {
   font-size: 15px;
-  background: linear-gradient(90deg, rgba(241,113,105,1) 33%, rgba(242,96,151,1) 60%);
+  background: aqua;
 }
 .prev.page-numbers:focus,
 .prev.page-numbers:hover,
